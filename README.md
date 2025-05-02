@@ -30,20 +30,20 @@ Permisos incluyen: uso comercial, modificación y distribución
 Restricciones: debe incluir licencia y copyright original
 
 ## Estructura
-maze-web/
-├── index.html          # Página principal
-├── rules.html          # Reglas del servidor
-├── admin-team.html     # Equipo de staff
-├── contact.html        # Formulario de contacto
-├── css/
-│   ├── global.css      # Estilos globales
-│   ├── home.css        # Estilos específicos de inicio
-│   └── ...             # Otros estilos
-├── images/             # Assets visuales
-│   ├── logo.png
-│   └── backgrounds/
-├── js/
-│   └── script.js       # Funcionalidades interactivas
+- maze-web/
+- ├── index.html          # Página principal
+- ├── rules.html          # Reglas del servidor
+- ├── admin-team.html     # Equipo de staff
+- ├── contact.html        # Formulario de contacto
+- ├── css/
+- │   ├── global.css      # Estilos globales
+- │   ├── home.css        # Estilos específicos de inicio
+- │   └── ...             # Otros estilos
+- ├── images/             # Assets visuales
+- │   ├── logo.png
+- │   └── backgrounds/
+- ├── js/
+- │   └── script.js       # Funcionalidades interactivas
 
 <div align="center"> <sub>Desarrollado con 💙 por la comunidad MazeMC | 2020 - 2025</sub> </div> ```
 
