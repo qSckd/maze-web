@@ -45,7 +45,7 @@ Restricciones: debe incluir licencia y copyright original
 - ├── js/
 - │   └── script.js       # Funcionalidades interactivas
 
-<div align="center"> <sub>Desarrollado con 💙 por la comunidad MazeMC | 2020 - 2025</sub> </div> ```
+<div align="center"> <sub>Desarrollado con 💙 por matta | 2020 - 2025</sub> </div>
 
 ## Instalación Local 💻
 1. Clona el repositorio:
