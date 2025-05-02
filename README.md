@@ -45,7 +45,7 @@ Restricciones: debe incluir licencia y copyright original
 - ├── js/
 - │   └── script.js       # Funcionalidades interactivas
 
-<div align="center"> <sub>Desarrollado con 💙 por matt | 2020 - 2025</sub> </div>
+<div align="center"> <sub>Desarrollado con 💙 por matt | Si vas a forkear da star y creditos.</sub> </div>
 
 ## Instalación Local 💻
 1. Clona el repositorio:
